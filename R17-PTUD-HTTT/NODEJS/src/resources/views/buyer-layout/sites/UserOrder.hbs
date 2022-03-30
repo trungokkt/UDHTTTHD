@@ -1,0 +1,237 @@
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="bread-inner">
+                    <ul class="bread-list">
+                        <li><a href="/">Home<i class="ti-arrow-right"></i></a></li>
+                        <li class="active"><a href="/user">Tài khoản</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Breadcrumbs -->
+
+
+<!-- Product Style -->
+<section class="product-area shop-sidebar shop section">
+    <div class="container">
+        <div class="row">
+            {{#with user}}
+            <div class="col-lg-3 col-md-4 col-12">
+                <div class="shop-sidebar">
+                    <!-- Single Widget -->
+                    <div class="single-widget recent-post">
+                        <!-- Single Post -->
+                        <div class="single-post account first">
+                            <div class="image">
+                                <img src="https://via.placeholder.com/75x75" alt="#">
+                            </div>
+                            <div class="content">
+                                <h5><a class="user-name-fix" href="#">{{userName}}</a></h5>
+                                <a class="user-edit"><i class="fa fa-pencil" aria-hidden="true"></i>
+                                    Chỉnh sửa</a>
+                            </div>
+                        </div>
+                        <!-- End Single Post -->
+                        <ul class="categor-list">
+                            <li><a href="/user">Thông tin tài khoản</a></li>
+                            <li><a href="/user/order">Đơn hàng</a></li>
+                        </ul>
+                    </div>
+                    <!--/ End Single Widget -->
+                </div>
+            </div>
+            {{/with}}
+            <div class="col-lg-9 col-md-8 col-12">
+                <div class="row">
+                    <div class="col-12">
+                        <!-- Shop Top -->
+                        <div class="shop-top">
+                            <div class="shop-shorter">
+                                <h4>Danh Sách các hớn đơn</h4>
+                            </div>
+                        </div>
+                        <!--/ End Shop Top -->
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="shopping-cart section col-12">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12">
+                                    <!-- Shopping Summery -->
+                                    <table class="table shopping-summery">
+                                        <thead>
+                                            <tr class="main-hading">
+                                                <th>Mã</th>
+                                                <th>Địa chỉ</th>
+                                                <th class="text-center">Tổng Tiền</th>
+                                                <th>Các sản phẩm</th>
+                                                <th class="text-center">Tình trạng</th>
+                                                <th class="text-center"></i></th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {{#each orders}}
+                                            <tr>
+                                                <td class="image" data-title="Mã">
+                                                    <div>{{orderId}}</div>
+                                                </td>
+                                                <td class="product-des" data-title="Địa Chỉ">
+                                                    <p class="product-des">{{orderAddress}}</p>
+                                                </td>
+                                                <td class="price" data-title="Tổng Tiền"><span>{{formatCurrency
+                                                        orderPrice}}</span></td>
+                                                <td class="price" data-title="Các sản phẩm">
+                                                    <a data-toggle="modal" data-target="#orderitem{{orderId}}"
+                                                        title="Quick View" href="#">Xem</a>
+                                                </td>
+                                                <td class="total-amount" data-title="Tình trạng">
+                                                    <a data-toggle="modal" data-target="#history{{orderId}}"
+                                                        title="Quick View" href="#">
+                                                        {{ShowHistory historyOrderStatus}}
+                                                    </a>
+                                                </td>
+
+                                                <td class="action" data-title="">
+                                                    {{#ifCond shipperId 'isnull' null }}
+                                                        {{#CheckGiaoHangF historyOrderStatus}}
+
+                                                        {{else}}
+                                                        <i class="ti-trash remove-icon aciton-icon"
+                                                            onclick="HuyOrder({{orderId}})"></i>
+                                                        {{/CheckGiaoHangF}}
+                                                    {{else}}
+                                                        {{#CheckGiaoHangSuccess historyOrderStatus}}
+                                                         <i class="ti-comment aciton-icon" data-toggle="modal" data-target="#comment{{orderId}}"
+                                                        title="Quick View"></i>
+                                                        {{/CheckGiaoHangSuccess}}
+                                                    {{/ifCond}}
+                                                </td>
+                                            </tr>
+                                            {{/each}}
+                                        </tbody>
+                                    </table>
+                                    <!--/ End Shopping Summery -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{#each orders}}
+<div class="modal fade" id="orderitem{{orderId}}" tabindex="-1" role="dialog">
+    <div class="modal-dialog" style="    width: 375px" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="ti-close"
+                        aria-hidden="true"></span></button>
+            </div>
+            <div class="modal-body">
+                <div class="row no-gutters">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <table class="table table-borderless mt-5">
+                            <thead>
+                                <tr class="main-hading">
+                                    <th>Tên Sản phẩm</th>
+                                    <th>Số lượng</th>
+                                    <th class="text-center">Tổng Tiền</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {{#each orderItems}}
+                                <tr>
+                                    <td class="product-des text-center" data-title="Tình trạng">
+                                        <div>{{product.productName}}</div>
+                                    </td>
+                                    <td lass="product-des text-center" data-title="Description">
+                                        <p class="product-des">{{orderItemQuantity}}</p>
+                                    </td>
+                                    <td class="price text-center" data-title="Price">
+                                        <span>{{formatCurrency
+                                            orderItemPrice}}</span>
+                                    </td>
+                                </tr>
+                                {{/each}}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="history{{orderId}}" tabindex="-1" role="dialog">
+    <div class="modal-dialog" style="width: 375px" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="ti-close"
+                        aria-hidden="true"></span></button>
+            </div>
+            <div class="modal-body">
+                <div class="row no-gutters">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <table class="table table-borderless mt-5">
+                            <thead>
+                                <tr class="main-hading">
+                                    <th></th>
+                                    <th>Tình Trạng</th>
+                                    <th class="text-center">Ngày</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {{#each historyOrderStatus}}
+                                <tr>
+                                    <td class="product-des text-center" data-title="Tình trạng">
+                                        <div>{{@index}}</div>
+                                    </td>
+                                    <td lass="product-des text-center" data-title="Description">
+                                        <p class="product-des">{{orderStatusNavigation.lable}}</p>
+                                    </td>
+                                    <td class="price text-center" data-title="Price">
+                                        <span>{{orderStatusDate}}</span>
+                                    </td>
+                                </tr>
+                                {{/each}}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="comment{{orderId}}" tabindex="-1" role="dialog">
+    <div class="modal-dialog" style="width: 375px;" role="document">
+        <div class="modal-content" style="height:375px;">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="ti-close"
+                        aria-hidden="true"></span></button>
+            </div>
+            <div class="modal-body">
+                <div class="row no-gutters">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="container mt-5">
+                            <label for="comment">Đánh giá</label>
+                         <textarea name="comment" id="inputcomment{{orderId}}" cols="10" rows="3"></textarea>
+                        <button class="btn text-center" onclick="PostDanhGia({{orderId}})" style="float: right;">Đánh giá</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{/each}}
+
+<!--/ End Product Style 1  -->

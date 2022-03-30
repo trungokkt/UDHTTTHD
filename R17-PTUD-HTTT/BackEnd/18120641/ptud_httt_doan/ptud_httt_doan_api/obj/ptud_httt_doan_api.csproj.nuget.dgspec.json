@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PTUD HTTT HD\\DA\\R17-PTUD-HTTT\\BackEnd\\18120641\\ptud_httt_doan\\ptud_httt_doan_api\\ptud_httt_doan_api.csproj": {}
+  },
+  "projects": {
+    "D:\\PTUD HTTT HD\\DA\\R17-PTUD-HTTT\\BackEnd\\18120641\\ptud_httt_doan\\ptud_httt_doan_api\\ptud_httt_doan_api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PTUD HTTT HD\\DA\\R17-PTUD-HTTT\\BackEnd\\18120641\\ptud_httt_doan\\ptud_httt_doan_api\\ptud_httt_doan_api.csproj",
+        "projectName": "ptud_httt_doan_api",
+        "projectPath": "D:\\PTUD HTTT HD\\DA\\R17-PTUD-HTTT\\BackEnd\\18120641\\ptud_httt_doan\\ptud_httt_doan_api\\ptud_httt_doan_api.csproj",
+        "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
+        "outputPath": "D:\\PTUD HTTT HD\\DA\\R17-PTUD-HTTT\\BackEnd\\18120641\\ptud_httt_doan\\ptud_httt_doan_api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

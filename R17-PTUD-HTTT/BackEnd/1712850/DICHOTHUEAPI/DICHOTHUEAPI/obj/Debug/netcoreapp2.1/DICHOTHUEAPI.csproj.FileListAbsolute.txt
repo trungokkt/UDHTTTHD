@@ -1,0 +1,54 @@
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.deps.json
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.runtimeconfig.json
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.runtimeconfig.dev.json
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.dll
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorAssemblyInfo.cache
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorAssemblyInfo.cs
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.AssemblyInfoInputs.cache
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.AssemblyInfo.cs
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorTargetAssemblyInfo.cache
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.pdb
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.dll
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.pdb
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\source\repos\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.genruntimeconfig.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.deps.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.runtimeconfig.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.runtimeconfig.dev.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.csproj.AssemblyReference.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.AssemblyInfoInputs.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.AssemblyInfo.cs
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.csproj.CoreCompileInputs.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorAssemblyInfo.cs
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorTargetAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.genruntimeconfig.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.deps.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.runtimeconfig.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.runtimeconfig.dev.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\bin\Debug\netcoreapp2.1\DICHOTHUEAPI.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.csproj.AssemblyReference.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.AssemblyInfoInputs.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.AssemblyInfo.cs
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.csproj.CoreCompileInputs.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorAssemblyInfo.cs
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.RazorTargetAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\1712850\DICHOTHUEAPI\DICHOTHUEAPI\obj\Debug\netcoreapp2.1\DICHOTHUEAPI.genruntimeconfig.cache

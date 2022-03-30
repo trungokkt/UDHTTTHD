@@ -1,0 +1,24 @@
+<div class="container">
+    <table id="demo" style="width:100%" class="table">
+        <thead>
+            <tr>
+                <th style="text-align: center; vertical-align: middle;">Chọn</th>
+                <th style="text-align: center; vertical-align: middle;">Mã hoá đơn</th>
+                <th style="text-align: center; vertical-align: middle;">Tổng tiền</th>
+                <th style="text-align: center; vertical-align: middle;">địa chỉ giao</th>
+                <th style="text-align: center; vertical-align: middle;">số điện thoại</th>
+            </tr>
+        </thead>
+        <tbody id="myTable">
+            {{#each NewOrders}}
+            <tr>
+                <td><button class="btn" onclick="nhanDon({{orderId}})">choose this</button></td>
+                <td style="text-align: center; vertical-align: middle;">{{orderId}}</td>
+                <td style="text-align: center; vertical-align: middle;">{{orderPrice}}</td>
+                <td style="text-align: center; vertical-align: middle;">{{orderAddress}}</td>
+                <td style="text-align: center; vertical-align: middle;">{{orderPhone}}</td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</div>

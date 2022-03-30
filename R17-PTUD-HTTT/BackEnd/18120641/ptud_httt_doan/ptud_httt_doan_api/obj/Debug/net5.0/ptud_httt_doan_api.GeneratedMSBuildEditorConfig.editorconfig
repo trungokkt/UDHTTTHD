@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ptud_httt_doan_api
+build_property.ProjectDir = D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\

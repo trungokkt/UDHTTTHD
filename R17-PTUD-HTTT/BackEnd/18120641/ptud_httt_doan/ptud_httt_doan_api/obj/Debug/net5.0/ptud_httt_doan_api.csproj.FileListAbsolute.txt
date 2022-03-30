@@ -1,0 +1,227 @@
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\web.config
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\appsettings.Development.json
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\appsettings.json
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.exe
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.deps.json
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.runtimeconfig.json
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.runtimeconfig.dev.json
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ref\ptud_httt_doan_api.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.pdb
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.csproj.AssemblyReference.cache
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.AssemblyInfoInputs.cache
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.AssemblyInfo.cs
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.csproj.CoreCompileInputs.cache
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.MvcApplicationPartsAssemblyInfo.cs
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.MvcApplicationPartsAssemblyInfo.cache
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\staticwebassets\ptud_httt_doan_api.StaticWebAssets.Manifest.cache
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\staticwebassets\ptud_httt_doan_api.StaticWebAssets.xml
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\scopedcss\bundle\ptud_httt_doan_api.styles.css
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.RazorTargetAssemblyInfo.cache
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ref\ptud_httt_doan_api.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.pdb
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.genruntimeconfig.cache
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\bachtung\source\repos\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\web.config
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\appsettings.json
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.exe
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.deps.json
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.runtimeconfig.json
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.runtimeconfig.dev.json
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ref\ptud_httt_doan_api.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.pdb
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.csproj.AssemblyReference.cache
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.AssemblyInfoInputs.cache
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.AssemblyInfo.cs
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.csproj.CoreCompileInputs.cache
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\staticwebassets\ptud_httt_doan_api.StaticWebAssets.Manifest.cache
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\staticwebassets\ptud_httt_doan_api.StaticWebAssets.xml
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\scopedcss\bundle\ptud_httt_doan_api.styles.css
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.RazorTargetAssemblyInfo.cache
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.csproj.CopyComplete
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ref\ptud_httt_doan_api.dll
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.pdb
+C:\Users\trung\Downloads\Compressed\UDHTTTHD\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.genruntimeconfig.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\web.config
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\appsettings.Development.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\appsettings.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.exe
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.deps.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.runtimeconfig.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.runtimeconfig.dev.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ref\ptud_httt_doan_api.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\ptud_httt_doan_api.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.csproj.AssemblyReference.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.AssemblyInfoInputs.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.AssemblyInfo.cs
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.csproj.CoreCompileInputs.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.MvcApplicationPartsAssemblyInfo.cs
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.MvcApplicationPartsAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\staticwebassets\ptud_httt_doan_api.StaticWebAssets.Manifest.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\staticwebassets\ptud_httt_doan_api.StaticWebAssets.xml
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\scopedcss\bundle\ptud_httt_doan_api.styles.css
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.RazorTargetAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.csproj.CopyComplete
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ref\ptud_httt_doan_api.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\18120641\ptud_httt_doan\ptud_httt_doan_api\obj\Debug\net5.0\ptud_httt_doan_api.genruntimeconfig.cache

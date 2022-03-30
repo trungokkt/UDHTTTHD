@@ -1,0 +1,275 @@
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.exe
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.deps.json
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.runtimeconfig.json
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.runtimeconfig.dev.json
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.pdb
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.AssemblyReference.cache
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.AssemblyInfoInputs.cache
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.AssemblyInfo.cs
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.CoreCompileInputs.cache
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.MvcApplicationPartsAssemblyInfo.cache
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\staticwebassets\DiChoThue.StaticWebAssets.Manifest.cache
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\staticwebassets\DiChoThue.StaticWebAssets.xml
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\scopedcss\bundle\DiChoThue.styles.css
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.RazorTargetAssemblyInfo.cache
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.pdb
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.genruntimeconfig.cache
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\Nam-4\Phat-trien-ung-dung-HTTT\Do-an\DiChoThue\DiChoThue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.exe
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.deps.json
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.runtimeconfig.json
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.runtimeconfig.dev.json
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.pdb
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.AssemblyReference.cache
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.AssemblyInfoInputs.cache
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.AssemblyInfo.cs
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.CoreCompileInputs.cache
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.MvcApplicationPartsAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\staticwebassets\DiChoThue.StaticWebAssets.Manifest.cache
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\staticwebassets\DiChoThue.StaticWebAssets.xml
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\scopedcss\bundle\DiChoThue.styles.css
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.RazorTargetAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.CopyComplete
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.dll
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.pdb
+D:\PTUD HTTT HD\DA\DiChoThue_ChiLap\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.genruntimeconfig.cache
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.exe
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.deps.json
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.runtimeconfig.json
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.runtimeconfig.dev.json
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.pdb
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.AssemblyReference.cache
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.AssemblyInfoInputs.cache
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.AssemblyInfo.cs
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.CoreCompileInputs.cache
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.MvcApplicationPartsAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\staticwebassets\DiChoThue.StaticWebAssets.Manifest.cache
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\staticwebassets\DiChoThue.StaticWebAssets.xml
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\scopedcss\bundle\DiChoThue.styles.css
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.RazorTargetAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.CopyComplete
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.dll
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.pdb
+D:\PTUD HTTT HD\DA\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.genruntimeconfig.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.exe
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.deps.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.runtimeconfig.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.runtimeconfig.dev.json
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\DiChoThue.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.AssemblyReference.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.AssemblyInfoInputs.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.AssemblyInfo.cs
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.CoreCompileInputs.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.MvcApplicationPartsAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\staticwebassets\DiChoThue.StaticWebAssets.Manifest.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\staticwebassets\DiChoThue.StaticWebAssets.xml
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\scopedcss\bundle\DiChoThue.styles.css
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.RazorTargetAssemblyInfo.cache
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.csproj.CopyComplete
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.dll
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.pdb
+D:\PTUD HTTT HD\DA\R17-PTUD-HTTT\BackEnd\DiChoThue_APILogin\DiChoThue\obj\Debug\netcoreapp3.1\DiChoThue.genruntimeconfig.cache
